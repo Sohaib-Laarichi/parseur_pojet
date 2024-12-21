@@ -1,10 +1,9 @@
 package parseur_pojet;
 
-
-import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
+import javax.swing.*;
 
 public class ParseurGUI extends JFrame {
     private Parseur parseur;
